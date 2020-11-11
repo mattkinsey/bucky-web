@@ -1,0 +1,270 @@
+Country Name,Country Code,Region
+Aruba,ABW,America
+Afghanistan,AFG,Eastern Mediterranean
+Angola,AGO,Africa
+Albania,ALB,Europe
+Andorra,AND,Europe
+Arab World,ARB,
+United Arab Emirates,ARE,Eastern Mediterranean
+Argentina,ARG,America
+Armenia,ARM,Europe
+American Samoa,ASM,Western Pacific
+Antigua and Barbuda,ATG,America
+Australia,AUS,Western Pacific
+Austria,AUT,Europe
+Azerbaijan,AZE,Europe
+Burundi,BDI,Africa
+Belgium,BEL,Europe
+Benin,BEN,Africa
+Burkina Faso,BFA,Africa
+Bangladesh,BGD,South-East Asia
+Bulgaria,BGR,Europe
+Bahrain,BHR,Eastern Mediterranean
+"Bahamas, The",BHS,America
+Bosnia and Herzegovina,BIH,Europe
+Belarus,BLR,Europe
+Belize,BLZ,America
+Bermuda,BMU,America
+Bolivia,BOL,America
+Brazil,BRA,America
+Barbados,BRB,America
+Brunei,BRN,Western Pacific
+Bhutan,BTN,South-East Asia
+Botswana,BWA,Africa
+Central African Republic,CAF,Africa
+Canada,CAN,America
+Central Europe and the Baltics,CEB,
+Switzerland,CHE,Europe
+Channel Islands,CHI,Europe
+Chile,CHL,America
+China,CHN,Western Pacific
+Cote d'Ivoire,CIV,Africa
+Cameroon,CMR,Africa
+Congo (Kinshasa),COD,Africa
+Congo (Brazzaville),COG,Africa
+Colombia,COL,America
+Comoros,COM,Africa
+Cabo Verde,CPV,Africa
+Costa Rica,CRI,America
+Caribbean small states,CSS,America
+Cuba,CUB,America
+Curacao,CUW,America
+Cayman Islands,CYM,America
+Cyprus,CYP,Eastern Mediterranean
+Czechia,CZE,Europe
+Germany,DEU,Europe
+Djibouti,DJI,Eastern Mediterranean
+Dominica,DMA,America
+Denmark,DNK,Europe
+Dominican Republic,DOM,America
+Algeria,DZA,Africa
+East Asia & Pacific (excluding high income),EAP,
+Early-demographic dividend,EAR,
+East Asia & Pacific,EAS,
+Europe & Central Asia (excluding high income),ECA,
+Europe & Central Asia,ECS,
+Ecuador,ECU,America
+Egypt,EGY,Eastern Mediterranean
+Euro area,EMU,
+Eritrea,ERI,Africa
+Spain,ESP,Europe
+Estonia,EST,Europe
+Ethiopia,ETH,Africa
+European Union,EUU,
+Fragile and conflict affected situations,FCS,
+Finland,FIN,Europe
+Fiji,FJI,Western Pacific
+France,FRA,Europe
+Faroe Islands,FRO,Europe
+"Micronesia, Fed. Sts.",FSM,Western Pacific
+Gabon,GAB,Africa
+Georgia,GEO,Europe
+Ghana,GHA,Africa
+Gibraltar,GIB,Europe
+Guinea,GIN,Africa
+"Gambia, The",GMB,Africa
+Guinea-Bissau,GNB,Africa
+Equatorial Guinea,GNQ,Africa
+Greece,GRC,Europe
+Grenada,GRD,America
+Greenland,GRL,Europe
+Guatemala,GTM,America
+Guam,GUM,America
+Guyana,GUY,America
+High income,HIC,
+Hong Kong,HKG,Western Pacific
+Honduras,HND,America
+Heavily indebted poor countries (HIPC),HPC,
+Croatia,HRV,Europe
+Haiti,HTI,America
+Hungary,HUN,Europe
+IBRD only,IBD,
+IDA & IBRD total,IBT,
+IDA total,IDA,
+IDA blend,IDB,
+Indonesia,IDN,South-East Asia
+IDA only,IDX,
+Isle of Man,IMN,Europe
+India,IND,South-East Asia
+Not classified,INX,
+Ireland,IRL,Europe
+Iran,IRN,Eastern Mediterranean
+Iraq,IRQ,Eastern Mediterranean
+Iceland,ISL,Europe
+Israel,ISR,Europe
+Italy,ITA,Europe
+Jamaica,JAM,America
+Jordan,JOR,Eastern Mediterranean
+Japan,JPN,Western Pacific
+Kazakhstan,KAZ,Europe
+Kenya,KEN,Africa
+Kyrgyzstan,KGZ,Europe
+Cambodia,KHM,Western Pacific
+Kiribati,KIR,Western Pacific
+St. Kitts and Nevis,KNA,America
+South Korea,KOR,Western Pacific
+Kuwait,KWT,Eastern Mediterranean
+Latin America & Caribbean (excluding high income),LAC,
+Lao PDR,LAO,
+Lebanon,LBN,Eastern Mediterranean
+Liberia,LBR,Africa
+Libya,LBY,Eastern Mediterranean
+St. Lucia,LCA,America
+Latin America & Caribbean,LCN,
+Least developed countries: UN classification,LDC,
+Low income,LIC,
+Liechtenstein,LIE,Europe
+Sri Lanka,LKA,South-East Asia
+Lower middle income,LMC,
+Low & middle income,LMY,
+Lesotho,LSO,Africa
+Late-demographic dividend,LTE,
+Lithuania,LTU,Europe
+Luxembourg,LUX,Europe
+Latvia,LVA,Europe
+"Macao SAR, China",MAC,Western Pacific
+St. Martin (French part),MAF,
+Morocco,MAR,Eastern Mediterranean
+Monaco,MCO,Europe
+Moldova,MDA,Europe
+Madagascar,MDG,Africa
+Maldives,MDV,South-East Asia
+Middle East & North Africa,MEA,
+Mexico,MEX,America
+Marshall Islands,MHL,Western Pacific
+Middle income,MIC,
+North Macedonia,MKD,Europe
+Mali,MLI,Africa
+Malta,MLT,Europe
+Myanmar,MMR,South-East Asia
+Middle East & North Africa (excluding high income),MNA,
+Montenegro,MNE,Europe
+Mongolia,MNG,Western Pacific
+Northern Mariana Islands,MNP,
+Mozambique,MOZ,Africa
+Mauritania,MRT,Africa
+Mauritius,MUS,Africa
+Malawi,MWI,Africa
+Malaysia,MYS,Western Pacific
+North America,NAC,
+Namibia,NAM,Africa
+New Caledonia,NCL,Western Pacific
+Niger,NER,Africa
+Nigeria,NGA,Africa
+Nicaragua,NIC,America
+Netherlands,NLD,Europe
+Norway,NOR,Europe
+Nepal,NPL,South-East Asia
+Nauru,NRU,Western Pacific
+New Zealand,NZL,Western Pacific
+OECD members,OED,
+Oman,OMN,Eastern Mediterranean
+Other small states,OSS,
+Pakistan,PAK,Eastern Mediterranean
+Panama,PAN,America
+Peru,PER,America
+Philippines,PHL,Western Pacific
+Palau,PLW,Western Pacific
+Papua New Guinea,PNG,Western Pacific
+Poland,POL,Europe
+Pre-demographic dividend,PRE,
+Puerto Rico,PRI,America
+"Korea, North",PRK,South-East Asia
+Portugal,PRT,Europe
+Paraguay,PRY,America
+West Bank and Gaza,PSE,Eastern Mediterranean
+Pacific island small states,PSS,
+Post-demographic dividend,PST,
+French Polynesia,PYF,
+Qatar,QAT,Eastern Mediterranean
+Romania,ROU,Europe
+Russia,RUS,Europe
+Rwanda,RWA,Africa
+South Asia,SAS,
+Saudi Arabia,SAU,Eastern Mediterranean
+Sudan,SDN,Africa
+Senegal,SEN,Africa
+Singapore,SGP,Western Pacific
+Solomon Islands,SLB,Western Pacific
+Sierra Leone,SLE,Africa
+El Salvador,SLV,America
+San Marino,SMR,Europe
+Somalia,SOM,Africa
+Serbia,SRB,Europe
+Sub-Saharan Africa (excluding high income),SSA,
+South Sudan,SSD,Africa
+Sub-Saharan Africa,SSF,Eastern Mediterranean
+Small states,SST,
+Sao Tome and Principe,STP,America
+Suriname,SUR,America
+Slovakia,SVK,Europe
+Slovenia,SVN,Europe
+Sweden,SWE,Europe
+Eswatini,SWZ,Africa
+Sint Maarten (Dutch part),SXM,America
+Seychelles,SYC,Africa
+Syrian Arab Republic,SYR,Eastern Mediterranean
+Turks and Caicos Islands,TCA,America
+Chad,TCD,Africa
+East Asia & Pacific (IDA & IBRD countries),TEA,
+Europe & Central Asia (IDA & IBRD countries),TEC,
+Togo,TGO,Africa
+Thailand,THA,South-East Asia
+Tajikistan,TJK,Europe
+Turkmenistan,TKM,Europe
+Latin America & the Caribbean (IDA & IBRD countries),TLA,
+Timor-Leste,TLS,South-East Asia
+Middle East & North Africa (IDA & IBRD countries),TMN,
+Tonga,TON,Western Pacific
+South Asia (IDA & IBRD),TSA,
+Sub-Saharan Africa (IDA & IBRD countries),TSS,
+Trinidad and Tobago,TTO,America
+Tunisia,TUN,Eastern Mediterranean
+Turkey,TUR,Europe
+Tuvalu,TUV,Western Pacific
+Tanzania,TZA,Africa
+Uganda,UGA,Africa
+Ukraine,UKR,Europe
+Upper middle income,UMC,
+Uruguay,URY,America
+UK,GBR,Europe
+US,USA,America
+Uzbekistan,UZB,Europe
+Saint Vincent and the Grenadines,VCT,America
+Venezuela,VEN,America
+British Virgin Islands,VGB,America
+Virgin Islands (U.S.),VIR,America
+Vietnam,VNM,Western Pacific
+Vanuatu,VUT,Western Pacific
+World,WLD,
+Samoa,WSM,Western Pacific
+Kosovo,XKX,
+"Yemen, Rep.",YEM,Eastern Mediterranean
+South Africa,ZAF,Africa
+Zambia,ZMB,Africa
+Zimbabwe,ZWE,Africa
+Saint Lucia,,America
+Martinique,,America
+Taiwan*,,Western Pacific
+Hong Kong*,,Western Pacific
+Holy See,,Europe

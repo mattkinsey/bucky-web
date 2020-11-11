@@ -1,0 +1,25 @@
+Date,Event,characters,Important,Type,Importance
+12/30/19,Wuhan City government starts to trace cases,43,1,gov,1
+1/5/20,Shanghai lab detects coronavirus similar to SARS,48,0,medical,1
+1/7/20,"Wuhan doctor, 13 nurses infected after operating on infected patient",68,0,medical,2
+1/8/20,Pathogen identified as novel coronavirus,40,1,medical,2
+1/14/20,Incubation period identified as 14 days,39,0,medical,2
+1/18/20,Baibuting neighborhood in Wuhan holds Lunar New Year banquet,60,0,social,2
+1/20/20,Pulmonologist Nanshan Zhong announces human-to-human spread,59,1,medical,2
+1/21/20,Annual Spring Festival travel rush begins in Hubei Province,59,1,social,2
+1/24/20,Wuhan placed under quarantine,75,1,gov,1
+1/24/20,Announced new hospital to be built in 10 days,75,1,gov,2
+1/27/20,"Hundreds of medical staff, equipment and food sent to Wuhan",59,,,2
+1/29/20,Thousands more medical workers sent to Wuhan (1/28-1/29),56,,,2
+2/2/20,Member of Chinese Academy of Science leads team to support Wuhan,64,,,2
+2/3/20,China Central Bank carried out a reverse repurchase of 1.2 trillion RMB ($170B),,,,2
+2/4/20,First Wuhan field hospital opens; More hospitals built overnight,64,,,2
+2/6/20,Diagnostic criteria expanded,28,,,2
+2/10/20,"Another 3,187 medical workers sent to Hubei Province",52,,,2
+2/11/20,19 provinces partner with 16 cities in Hubei for assistance,,,,2
+2/13/20,"Hubei Province incorporates diagnostic change",74,,,1
+2/15/20,Wuhan asks recovered patients to donate plasma,46,,,2
+2/20/20,"Another 1,299 medical workers sent to Wuhan as city disinfects sewage",69,,,2
+2/25/20,"China bans trade, consumption of wild animals, and postpones annual parliamentary meeting",85,,,2
+2/27/20,Daily new cases outside China surpass those inside the country,62,,,2
+3/1/20,China-WHO joint investigation report on COVID-19 published,58,,,1
