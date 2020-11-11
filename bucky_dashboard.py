@@ -37,14 +37,14 @@ st.markdown(
 ####################################################################################
 @st.cache
 def _get_quantiles(dir, adm_level, quantile):
-    df = pd.read_csv(f"../output/{dir}/adm{adm_level}_quantiles.csv")
+    df = pd.read_csv(f"output/{dir}/adm{adm_level}_quantiles.csv")
     df = df[df["quantile"] == quantile]
     df["CODE"] = "USA"
     return df
 
 
 def get_output_folders():
-    folders = [name for name in os.listdir("../output/") if not ".DS_Store" in name]
+    folders = [name for name in os.listdir("output/") if not ".DS_Store" in name]
     # print(f"Available output folders: {folders}")
     return folders
 
